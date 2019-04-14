@@ -1,0 +1,12 @@
+header{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+body{
+    background-color: burlywood;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+legend{
+    font-family: fantasy;
+}
